@@ -1,0 +1,39 @@
+EMERGENCY DEPARTMENT REPORT
+Patient: John Doe (Synthetic)
+Date: 2024-11-10
+Facility: City General Hospital
+
+CHIEF COMPLAINT: Motor vehicle accident with chest and left leg pain.
+
+HISTORY OF PRESENT ILLNESS:
+45-year-old male brought in by ambulance following a two-vehicle collision at approximately 14:30. Patient was the restrained driver. Airbags deployed. Patient reports severe chest pain rated 8/10, worse with deep breathing. Also complains of left lower leg pain and difficulty bearing weight. Denies loss of consciousness at the scene. No headache or neck pain reported.
+
+VITAL SIGNS ON ARRIVAL:
+Blood pressure: 142/88 mmHg
+Heart rate: 102 bpm
+Respiratory rate: 22 breaths/min
+SpO2: 96% on room air
+Temperature: 37.1°C
+
+PHYSICAL EXAMINATION:
+General: Alert, oriented, moderate distress.
+Chest: Tenderness over left 4th-6th ribs anterolaterally. No crepitus. Breath sounds equal bilaterally but diminished on the left base.
+Abdomen: Soft, non-tender, no guarding.
+Left lower extremity: Swelling and tenderness over the mid-tibia. No open wound. Distal pulses intact. Sensation normal.
+
+IMAGING:
+Chest X-ray: Left 5th and 6th rib fractures. No pneumothorax. Small left pleural effusion.
+Left tibia/fibula X-ray: Non-displaced fracture of the mid-tibial shaft.
+
+DIAGNOSIS:
+1. Left 5th and 6th rib fractures
+2. Non-displaced left tibial shaft fracture
+3. Small left pleural effusion
+
+MEDICATIONS ADMINISTERED:
+Morphine 4mg IV at 15:10
+Ketorolac 30mg IV at 15:15
+
+DISPOSITION: Admitted to surgical observation. Orthopedic consultation requested for tibial fracture management.
+
+Attending: Dr. Sarah Chen, MD (Synthetic)

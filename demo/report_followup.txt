@@ -1,0 +1,44 @@
+FOLLOW-UP CLINICAL REPORT
+Patient: John Doe (Synthetic)
+Date: 2024-11-17
+Facility: City General Hospital - Outpatient Clinic
+
+REASON FOR VISIT: One-week follow-up after motor vehicle accident.
+
+HISTORY:
+45-year-old male presenting for follow-up after MVA on 2024-11-10. Patient was discharged on 2024-11-12 after 2-day observation. He reports chest pain has improved to 4/10 but still present with coughing. Left leg pain is moderate, managed with prescribed medications. Patient reports occasional dizziness when standing, which was not noted during the initial ER visit.
+
+CURRENT MEDICATIONS:
+Ibuprofen 600mg TID
+Acetaminophen 500mg PRN
+Tramadol 50mg BID
+
+VITAL SIGNS:
+Blood pressure: 128/82 mmHg
+Heart rate: 78 bpm
+Respiratory rate: 16 breaths/min
+SpO2: 98% on room air
+Temperature: 36.8°C
+
+PHYSICAL EXAMINATION:
+General: Alert, comfortable at rest, mild discomfort with movement.
+Chest: Tenderness over left 4th-7th ribs. Breath sounds clear bilaterally. No effusion clinically detectable.
+Left lower extremity: Cast in place. Mild swelling above cast. No signs of compartment syndrome. Toes warm, pink, with brisk capillary refill.
+
+IMAGING:
+Chest X-ray: Left 5th and 6th rib fractures healing appropriately. Previous pleural effusion has resolved. No new findings.
+NOTE: Initial ER report documented fractures of ribs 5-6; however, CT scan obtained during admission on 2024-11-11 also identified a hairline fracture of the left 4th rib not visible on initial plain films.
+
+ASSESSMENT:
+1. Left 4th, 5th, and 6th rib fractures - healing, pain improving
+2. Non-displaced left tibial shaft fracture - cast immobilization, stable alignment on X-ray
+3. New symptom: orthostatic dizziness - possibly medication-related (tramadol)
+4. Left pleural effusion - resolved
+
+PLAN:
+- Continue current pain management, consider tapering tramadol if dizziness persists
+- Orthopedic follow-up in 4 weeks for tibial fracture
+- Return if worsening chest pain, shortness of breath, or increased dizziness
+- Blood pressure and heart rate monitoring given initial hypertensive reading in ER
+
+Physician: Dr. Michael Torres, MD (Synthetic)

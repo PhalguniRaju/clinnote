@@ -1,0 +1,32 @@
+HOSPITAL BILLING STATEMENT
+City General Hospital (Synthetic)
+Statement Date: 2024-11-20
+
+Patient: John Doe
+Account Number: SYN-2024-88431
+Admission Date: 2024-11-10
+Discharge Date: 2024-11-12
+
+ITEMIZED CHARGES:
+
+Emergency Department Visit (Level 5)          $3,200.00
+Ambulance Transport                            $1,850.00
+Chest X-ray (2 views)                            $425.00
+Left Tibia/Fibula X-ray (2 views)                $380.00
+CT Chest (with contrast)                       $2,100.00
+Morphine Sulfate 4mg IV                          $125.00
+Ketorolac 30mg IV                                 $85.00
+Surgical Observation - 2 nights               $4,800.00
+Orthopedic Consultation                          $750.00
+Cast Application - Long Leg                      $680.00
+Follow-up X-ray (chest)                          $310.00
+Follow-up X-ray (tibia)                          $310.00
+Discharge Planning                               $275.00
+Physical Therapy Evaluation                      $420.00
+
+TOTAL CHARGES:                               $15,710.00
+
+Insurance: BlueCross Standard Plan (Synthetic)
+Policy Number: SYN-BC-445521
+
+This is a synthetic billing statement for demonstration purposes only.

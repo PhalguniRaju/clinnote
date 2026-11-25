@@ -1,0 +1,52 @@
+INSURANCE POLICY SUMMARY
+BlueCross Standard Plan (Synthetic)
+Policy Number: SYN-BC-445521
+Effective Date: 2024-01-01 to 2024-12-31
+
+POLICYHOLDER: John Doe
+
+COVERAGE SUMMARY:
+
+Emergency Services:
+- Emergency room visits: Covered at 80% after deductible
+- Ambulance services: Covered at 70% after deductible (in-network only)
+- Out-of-network emergency: Covered at 60%
+
+Inpatient Hospital:
+- Semi-private room: Covered at 80% after deductible
+- Maximum stay: 30 days per admission
+- Pre-authorization required for stays exceeding 48 hours
+
+Outpatient Services:
+- Diagnostic imaging (X-ray): Covered at 90% after deductible
+- Advanced imaging (CT/MRI): Covered at 80% after deductible, pre-authorization required
+- Outpatient surgery: Covered at 80% after deductible
+
+Prescription Medications:
+- Generic drugs: $10 copay
+- Brand-name drugs: $35 copay
+- IV medications during ER/inpatient: Included in facility charges
+
+Rehabilitation:
+- Physical therapy: Covered at 80%, maximum 20 visits per calendar year
+- Occupational therapy: Covered at 80%, maximum 15 visits per calendar year
+
+DEDUCTIBLE: $1,500 individual / $3,000 family
+Amount met YTD: $450.00
+Remaining: $1,050.00
+
+OUT-OF-POCKET MAXIMUM: $6,500 individual / $13,000 family
+
+EXCLUSIONS:
+- Cosmetic procedures
+- Experimental or investigational treatments
+- Services not deemed medically necessary
+- Work-related injuries covered under workers' compensation
+- Injuries sustained during commission of a felony
+
+IMPORTANT NOTES:
+- Pre-authorization is required for hospital stays exceeding 48 hours
+- CT and MRI scans require pre-authorization
+- Out-of-network providers may result in balance billing
+
+This is a synthetic insurance policy for demonstration purposes only.

@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { X } from 'lucide-react'
 
 import { api, ApiError } from '../../lib/api'
@@ -25,12 +25,11 @@ export function MultiUpload({
   const [dragging, setDragging] = useState(false)
   const [documents, setDocuments] = useState<UploadedDoc[]>([])
 
-  const updateAndNotify = (next: UploadedDoc[]) => {
-    setDocuments(next)
+  useEffect(() => {
     onReady(
-      next.filter((d) => d.status === 'done').map((d) => ({ name: d.name, text: d.text })),
+      documents.filter((d) => d.status === 'done').map((d) => ({ name: d.name, text: d.text })),
     )
-  }
+  }, [documents]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleFiles = async (files: FileList) => {
     const incoming = Array.from(files)
@@ -52,7 +51,6 @@ export function MultiUpload({
           const copy = [...prev]
           const idx = prev.length - incoming.length + i
           copy[idx] = { ...copy[idx], text, status: 'done' }
-          onReady(copy.filter((d) => d.status === 'done').map((d) => ({ name: d.name, text: d.text })))
           return copy
         })
       } catch (err) {
@@ -71,11 +69,7 @@ export function MultiUpload({
   }
 
   const removeDoc = (idx: number) => {
-    setDocuments((prev) => {
-      const next = prev.filter((_, i) => i !== idx)
-      onReady(next.filter((d) => d.status === 'done').map((d) => ({ name: d.name, text: d.text })))
-      return next
-    })
+    setDocuments((prev) => prev.filter((_, i) => i !== idx))
   }
 
   return (
